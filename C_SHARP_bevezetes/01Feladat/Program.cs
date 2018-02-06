@@ -7,6 +7,8 @@ namespace _01Feladat
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+
+            // sfgkhsdfklghsdfjkl
         }
     }
 }
